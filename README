@@ -1,16 +1,10 @@
 # SNHU-CS250-mod-8
 
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
-By integrating user needs into program development, you create something that more cohesive for the end user and fulfills the client's needs. User stories help 
-by allowing developers to view it as the end user and not just lines of code to be modified. Like an artist taking a step back to admire their painting, user
-stories help you see from a different perspective.
+By integrating user needs into program development, you create something that more cohesive for the end user and fulfills the client's needs. User stories help by allowing developers to view it as the end user and not just lines of code to be modified. Like an artist taking a step back to admire their painting, user stories help you see from a different perspective.
 
 How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
-I start with the architechure and work my way down to the smaller details. Should this be ran locally or hosted on the cloud? What classes do I need to 
-accoomplish this? Then the smaller details like background and font color. I believe that using the teamwork aspect of Agile would allow me to create code that is both
-effective and less prone to failure. Having a second set of eyes review the work I have completed would help with those issues.
+I start with the architechure and work my way down to the smaller details. Should this be ran locally or hosted on the cloud? What classes do I need to accoomplish this? Then the smaller details like background and font color. I believe that using the teamwork aspect of Agile would allow me to create code that is both effective and less prone to failure. Having a second set of eyes review the work I have completed would help with those issues.
 
 What does it mean to be a good team member in software development?
-Being a good team member in software development means being competent and accountable. Being able to perform the actions required of you and acknolwledging when
-you make a mistake allows you to grow as an individual and team member. If you attempt to hide your mistakes and failures, people will grow to dislike you. If you 
-accept responsibility and take the blame for messing up, people will respect you and want to work with you again. 
+Being a good team member in software development means being competent and accountable. Being able to perform the actions required of you and acknolwledging when you make a mistake allows you to grow as an individual and team member. If you attempt to hide your mistakes and failures, people will grow to dislike you. If you accept responsibility and take the blame for messing up, people will respect you and want to work with you again. 
